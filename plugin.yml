@@ -1,0 +1,10 @@
+name: ConvenientChat
+main: me.gidonyou.ConvenientChat.ConvenientChat
+version: beta1.5
+loadbefore: [Essentials]
+author: gidonyou
+website: http://www.gidonyou.me
+commands:
+  cc:
+    aliases: [채팅]
+  test:

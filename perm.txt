@@ -1,0 +1,9 @@
+cc.user.chat  -  Allow user to chat
+cc.user.create  -  Allow user to create chatrooms
+cc.user.leave  -  allow user to leave the chatroom
+cc.user.kick  -  allow user to kick player in chatroom
+cc.user.join  -  allow user to join the chatroom
+cc.user.list  -  Show Chating Room list (Locked room Excluded)
+cc.mod.spy  -  Allow user to spy on chat
+cc.mod.remove -  delete the chatroom
+cc.mod.list   -  Show list (locked room included)
